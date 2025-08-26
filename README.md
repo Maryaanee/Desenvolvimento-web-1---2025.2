@@ -1,14 +1,14 @@
 # 📚 Atividades de HTML - Desenvolvimento Web 1
 
 <p align="center">
-  Repositório dedicado às atividades e projetos desenvolvidos para a disciplina de Desenvolvimento Web 1.
+  Repositório dedicado às atividades da disciplina de Desenvolvimento Web 1.
 </p>
 
 ---
 
 ### 💻 Sobre o Repositório
 
-Este espaço foi criado para organizar e armazenar todos os exercícios, projetos e códigos relacionados aos estudos de **HTML**. Aqui, você encontrará meu progresso, desafios resolvidos e a aplicação dos conceitos ensinados em sala de aula.
+Este espaço foi criado para organizar e armazenar todos os exercícios, projetos e códigos relacionados aos estudos de **HTML**. Conceitos ensinados em sala de aula.
 
 ### 👨‍🏫 Professor
 
@@ -16,32 +16,24 @@ Este espaço foi criado para organizar e armazenar todos os exercícios, projeto
 
 ---
 
-### 🚀 Tecnologias
+### 🚀 Tecnologia
 
-Neste repositório, o foco principal é na linguagem de marcação mais fundamental da web.
+HTML, criado em VScode
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="80" height="80"/>
 </p>
 
 ---
 
 ### 📂 Estrutura do Repositório
 
-Organizei as atividades em pastas para facilitar a navegação. Cada pasta corresponde a um tópico ou um projeto específico.
-
-- **`atividades/`**: Exercícios práticos e códigos de aula.
-- **`projetos/`**: Projetos maiores e mais complexos.
-- **`README.md`**: Este arquivo com informações sobre o repositório.
+Organizei as atividades em pastas para facilitar a navegação. Cada pasta corresponde a uma atividade específica.
 
 ---
 
-### 📝 Contato
+### 📝 Aluna
 
-Caso tenha alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
+- **Francisca Mariane Sousa da Silva**: sa.mariane08@aluno.ifce.edu.br
 
-- **[Seu Nome]**: [Seu Email]
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l4pTfx2qLsTgBfPNM/giphy.gif" alt="GIF de código" width="300"/>
-</p>
