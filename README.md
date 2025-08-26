@@ -29,11 +29,11 @@ HTML, criado em VScode
 
 ### 📂 Estrutura do Repositório
 
-Organizei as atividades em pastas para facilitar a navegação. Cada pasta corresponde a uma atividade específica.
+Organizei as atividades em repositórios. Cada pasta corresponde a uma atividade específica.
 
 ---
 
 ### 📝 Aluna
 
-- **Francisca Mariane Sousa da Silva**: sa.mariane08@aluno.ifce.edu.br
+- **Francisca Mariane Sousa da Silva** : sa.mariane08@aluno.ifce.edu.br
 
