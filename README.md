@@ -32,12 +32,16 @@
   📝 exercícios, 💻 projetos e 🔎 códigos relacionados aos estudos de **HTML**.  
 </p>
 
+<p aling="center">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="HTML5 animado" width="40" height="40"/>
+</p>
+
 ---
 ## 🔧 Tecnologias  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="70" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="70" height="70"/>
 </p>
 
 ## 👨‍🏫 Professor  
