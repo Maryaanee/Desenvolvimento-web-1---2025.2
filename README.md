@@ -1,39 +1,47 @@
 # 📚 Atividades de HTML - Desenvolvimento Web 1
 
+**✨ Aluna:** *Francisca Mariane Sousa da Silva* 
+**Turma S4 - 2025.2**
+
+---
+
+## 🌐 GitHub Pages - Atividades HTML  
+> 📌 Clique em cada link para visualizar as atividades hospedadas no **GitHub Pages**:
+
+1️⃣ [Atividade 01](COLOQUE-SEU-LINK-AQUI)  
+2️⃣ [Atividade 02](COLOQUE-SEU-LINK-AQUI)  
+3️⃣ [Atividade 03](COLOQUE-SEU-LINK-AQUI)  
+4️⃣ [Atividade 04](COLOQUE-SEU-LINK-AQUI)  
+5️⃣ [Atividade 05](COLOQUE-SEU-LINK-AQUI)  
+6️⃣ [Atividade 06](COLOQUE-SEU-LINK-AQUI)  
+7️⃣ [Atividade 07](COLOQUE-SEU-LINK-AQUI)  
+8️⃣ [Atividade 08](COLOQUE-SEU-LINK-AQUI)  
+9️⃣ [Atividade 09](COLOQUE-SEU-LINK-AQUI)  
+🔟 [Atividade 10](COLOQUE-SEU-LINK-AQUI)  
+1️⃣1️⃣ [Atividade 11](COLOQUE-SEU-LINK-AQUI)  
+1️⃣2️⃣ [Atividade 12](COLOQUE-SEU-LINK-AQUI)  
+1️⃣3️⃣ [Atividade 13](COLOQUE-SEU-LINK-AQUI)  
+1️⃣4️⃣ [Atividade 14](COLOQUE-SEU-LINK-AQUI)  
+
+---
+
+## 📚 Sobre o Repositório  
+
 <p align="center">
-  Repositório dedicado às atividades da disciplina de Desenvolvimento Web 1.
+  ✨ Este espaço foi criado para organizar e armazenar todos os <br> 
+  📝 exercícios, 💻 projetos e 🔎 códigos relacionados aos estudos de **HTML**.  
 </p>
 
 ---
-
-### 💻 Sobre o Repositório
-
-Este espaço foi criado para organizar e armazenar todos os exercícios, projetos e códigos relacionados aos estudos de **HTML**. Conceitos ensinados em sala de aula.
-
-### 👨‍🏫 Professor
-
-**Thomaz Maia de Almeida**
-
----
-
-### 🚀 Tecnologia
-
-HTML, criado em VScode
+## 🔧 Tecnologias  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
----
+## 👨‍🏫 Professor  
 
-### 📂 Estrutura do Repositório
-
-Organizei as atividades em repositórios. Cada pasta corresponde a uma atividade específica.
+**Thomaz Maia de Almeida**  
 
 ---
-
-### 📝 Aluna
-
-- **Francisca Mariane Sousa da Silva** : sa.mariane08@aluno.ifce.edu.br
-
