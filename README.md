@@ -9,7 +9,7 @@
 > 📌 Clique em cada link para visualizar as atividades hospedadas no **GitHub Pages**:
 
 1️⃣ [Atividade 01](https://maryaanee.github.io/PAGES-html-atv1/)  
-2️⃣ [Atividade 02](COLOQUE-SEU-LINK-AQUI)  
+2️⃣ [Atividade 02](https://maryaanee.github.io/PAGES-html-atv2/)  
 3️⃣ [Atividade 03](COLOQUE-SEU-LINK-AQUI)  
 4️⃣ [Atividade 04](COLOQUE-SEU-LINK-AQUI)  
 5️⃣ [Atividade 05](COLOQUE-SEU-LINK-AQUI)  
