@@ -8,22 +8,28 @@
 ## 🌐 GitHub Pages - Atividades HTML  
 > 📌 Clique em cada link para visualizar as atividades hospedadas no **GitHub Pages**:
 
-1️⃣ [Atividade 01](https://maryaanee.github.io/PAGES-html-atv1/)  
-2️⃣ [Atividade 02](https://maryaanee.github.io/PAGES-html-atv2/)  
-3️⃣ [Atividade 03](https://maryaanee.github.io/PAGES-html-atv3/)  
-4️⃣ [Atividade 04](https://maryaanee.github.io/PAGES-html-atv4/)  
-5️⃣ [Atividade 05](https://maryaanee.github.io/PAGES-html-atv5/)  
-6️⃣ [Atividade 06](https://maryaanee.github.io/PAGES-html-atv6/)  
-7️⃣ [Atividade 07](https://maryaanee.github.io/PAGES-html-atv7/)  
-8️⃣ [Atividade 08](https://maryaanee.github.io/PAGES-html-atv8/)  
-9️⃣ [Atividade 09](https://maryaanee.github.io/PAGES-html-atv9/)  
-🔟 [Atividade 10](https://maryaanee.github.io/PAGES-html-atv10/)  
-1️⃣1️⃣ [Atividade 11](https://maryaanee.github.io/PAGES-html-atv11/)  
-1️⃣2️⃣ [Atividade 12](https://maryaanee.github.io/PAGES-html-atv12/)  
-1️⃣3️⃣ [Atividade 13](https://maryaanee.github.io/PAGES-html-atv13/)  
-1️⃣4️⃣ [Atividade 14](https://maryaanee.github.io/PAGES-html-atv14/)  
+
+| Nº   | Atividade                                              | Descrição                                          | Link                                                    |
+|------|--------------------------------------------------------|----------------------------------------------------|---------------------------------------------------------|
+| 1️⃣  | [Atividade 01](https://maryaanee.github.io/PAGES-html-atv1/) | `<html>`, `<head>`, `<body>`, `<footer>`            | [Acessar](https://maryaanee.github.io/PAGES-html-atv1/)   |
+| 2️⃣  | [Atividade 02](https://maryaanee.github.io/PAGES-html-atv2/) | `<main>`, `<section>`, `<aside>`                   | [Acessar](https://maryaanee.github.io/PAGES-html-atv2/)   |
+| 3️⃣  | [Atividade 03](https://maryaanee.github.io/PAGES-html-atv3/) | `<h1>`, ..., `<h6>`                                | [Acessar](https://maryaanee.github.io/PAGES-html-atv3/)   |
+| 4️⃣  | [Atividade 04](https://maryaanee.github.io/PAGES-html-atv4/) | `<p>`, `<b>`, `<i>`                                | [Acessar](https://maryaanee.github.io/PAGES-html-atv4/)   |
+| 5️⃣  | [Atividade 05](https://maryaanee.github.io/PAGES-html-atv5/) | `<ol>`, `<li>`                                     | [Acessar](https://maryaanee.github.io/PAGES-html-atv5/)   |
+| 6️⃣  | [Atividade 06](https://maryaanee.github.io/PAGES-html-atv6/) | `<ol>`, `<li>`                                     | [Acessar](https://maryaanee.github.io/PAGES-html-atv6/)   |
+| 7️⃣  | [Atividade 07](https://maryaanee.github.io/PAGES-html-atv7/) | `<ul>`, `<li>`                                     | [Acessar](https://maryaanee.github.io/PAGES-html-atv7/)   |
+| 8️⃣  | [Atividade 08](https://maryaanee.github.io/PAGES-html-atv8/) | `<nav>`, `<a>`                                     | [Acessar](https://maryaanee.github.io/PAGES-html-atv8/)   |
+| 9️⃣  | [Atividade 09](https://maryaanee.github.io/PAGES-html-atv9/) | `<a>`                                              | [Acessar](https://maryaanee.github.io/PAGES-html-atv9/)   |
+| 🔟   | [Atividade 10](https://maryaanee.github.io/PAGES-html-atv10/) | `<img>`                                            | [Acessar](https://maryaanee.github.io/PAGES-html-atv10/)  |
+| 1️⃣1️⃣ | [Atividade 11](https://maryaanee.github.io/PAGES-html-atv11/) | `<figure>`, `<figcaption>`                         | [Acessar](https://maryaanee.github.io/PAGES-html-atv11/)  |
+| 1️⃣2️⃣ | [Atividade 12](https://maryaanee.github.io/PAGES-html-atv12/) | `<table>`, `<thead>`, `<tbody>`, `<tfoot>`, `<tr>`, `<th>`, `<td>` | [Acessar](https://maryaanee.github.io/PAGES-html-atv12/)  |
+| 1️⃣3️⃣ | [Atividade 13](https://maryaanee.github.io/PAGES-html-atv13/) | `<form>`, `<label>`, `<input>`, `<textarea>`, `<select>`, `<option>` | [Acessar](https://maryaanee.github.io/PAGES-html-atv13/)  |
+| 1️⃣4️⃣ | [Atividade 14](https://maryaanee.github.io/PAGES-html-atv14/) | `<br>`, `<!-- -->`                                  | [Acessar](https://maryaanee.github.io/PAGES-html-atv14/)  |
+
 
 ---
+
+
 
 ## 📚 Sobre o Repositório  
 
