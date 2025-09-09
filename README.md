@@ -20,8 +20,8 @@
 🔟 [Atividade 10](https://maryaanee.github.io/PAGES-html-atv10/)  
 1️⃣1️⃣ [Atividade 11](https://maryaanee.github.io/PAGES-html-atv11/)  
 1️⃣2️⃣ [Atividade 12](https://maryaanee.github.io/PAGES-html-atv12/)  
-1️⃣3️⃣ [Atividade 13](COLOQUE-SEU-LINK-AQUI)  
-1️⃣4️⃣ [Atividade 14](COLOQUE-SEU-LINK-AQUI)  
+1️⃣3️⃣ [Atividade 13](https://maryaanee.github.io/PAGES-html-atv13/)  
+1️⃣4️⃣ [Atividade 14](https://maryaanee.github.io/PAGES-html-atv14/)  
 
 ---
 
